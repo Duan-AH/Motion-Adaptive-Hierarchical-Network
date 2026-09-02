@@ -1,0 +1,19 @@
+# Generated files and local environments are not part of this release.
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.env
+.env.*
+data/
+cache/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.pkl
+*.npy
+*.npz
+*.jsonl
